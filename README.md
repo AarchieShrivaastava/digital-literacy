@@ -3,7 +3,7 @@
 
 👨‍🎓 **Name:** AARCHIE SHRIVAASTAVA
 🆔 **Registration Number:** 25BSA10134
-  **Branch:** CSE(CLOUD COMPUTING AND AUTOMATIOM)
+  **Branch:** CSE(CLOUD COMPUTING AND AUTOMATION)
 📅 **Year:** 1st Year B.Tech  
 🏫 **University:** VIT Bhopal University  
 
